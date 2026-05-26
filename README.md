@@ -24,14 +24,20 @@
  
  
  
- "This project is a full-stack Student Management System built using Java Servlets and JSP for the MVC architecture, JDBC with MySQL fordatabase operations using the DAO pattern, Jakarta EE on Apache Tomcat 10.1, Razorpay payment gateway for online fee collection with webhook integration, and a Python Flask microservice with a machine learning performance prediction algorithm. The frontend uses Bootstrap 5, Chart.js for analytics dashboards, and Google Fonts. The system supports role-based access with separate Student and Admin portals, complete CRUD operations, course enrollment, payment tracking, andAI-powered academic performance prediction."
+ "This project is a full-stack Student Management System built using
+ Java Servlets and JSP for the MVC architecture, JDBC with MySQL fordatabase operations 
+ using the DAO pattern, Jakarta EE on Apache Tomcat 10.1, Razorpay payment gateway 
+ for online fee collection with webhook integration, and a Python Flask microservice
+ with a machine learning performance prediction algorithm.
+ The frontend uses Bootstrap 5, Chart.js for analytics dashboards, and Google Fonts.
+ The system supports role-based access with separate Student and Admin portals, complete CRUD operations, course enrollment, payment tracking, andAI-powered      academic performance prediction."
   
   
    
    
    
-              Folder structure:
-              com/student/
+  Folder structure:
+  com/student/
   ├── util/
   │   └── DBConnect.java
   ├── model/
