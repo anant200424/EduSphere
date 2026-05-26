@@ -1,6 +1,13 @@
-╔══════════════════════════════════════════════════════════════╗
-║        EduSphere — Complete Student Management System        ║
-╚══════════════════════════════════════════════════════════════╝
+                                          ╔══════════════════════════════════════════════════════════════╗
+                                          ║        EduSphere — Complete Student Management System        ║
+                                          ╚══════════════════════════════════════════════════════════════╝
+
+
+
+
+
+
+
 <img width="1830" height="963" alt="Screenshot 2026-04-03 004504" src="https://github.com/user-attachments/assets/5499fa8d-a2af-42f5-acd2-4da118bf34a3" />
 <img width="1881" height="903" alt="Screenshot 2026-04-03 234901" src="https://github.com/user-attachments/assets/423aab4c-448e-4e8d-b4a9-30274dfe6b81" />
 <img width="1905" height="1011" alt="Screenshot 2026-04-24 154119" src="https://github.com/user-attachments/assets/be17e25c-be8d-41a2-a2b6-a7d7d424f965" />
@@ -12,6 +19,11 @@
 
 
 
+
+ 
+ 
+ 
+ 
  "This project is a full-stack Student Management System built using
 Java Servlets and JSP for the MVC architecture, JDBC with MySQL for
 database operations using the DAO pattern, Jakarta EE on Apache Tomcat
@@ -23,8 +35,12 @@ supports role-based access with separate Student and Admin portals,
 complete CRUD operations, course enrollment, payment tracking, and
 AI-powered academic performance prediction."
   
+  
+   
+   
+   
    Folder structure:
-  com/student/
+   com/student/
   ├── util/
   │   └── DBConnect.java
   ├── model/
@@ -73,9 +89,9 @@ AI-powered academic performance prediction."
   adminEnrollments.jsp   ← Admin all enrollments
   adminCourses.jsp       ← Admin manage courses
 
-════════════════════════════════════════════════════════════════
-COMPLETE PAGE MAP — ALL ACCESSIBLE FROM HOME
-════════════════════════════════════════════════════════════════
+                                       ════════════════════════════════════════════════════════════════
+                                                      COMPLETE PAGE MAP — ALL ACCESSIBLE FROM HOME
+                                       ════════════════════════════════════════════════════════════════
 
 HOME PAGE (home.jsp)
 ├── Student Login (login.jsp)
