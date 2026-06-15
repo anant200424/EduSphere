@@ -1,6 +1,6 @@
-                                          ╔══════════════════════════════════════════════════════════════╗
-                                          ║        EduSphere — Complete Student Management System        ║
-                                          ╚══════════════════════════════════════════════════════════════╝
+                                   ╔══════════════════════════════════════════════════════════════╗
+                                   ║        EduSphere — Complete Student Management System        ║
+                                   ╚══════════════════════════════════════════════════════════════╝
 
 
 <img width="1830" height="963" alt="Screenshot 2026-04-03 004504" src="https://github.com/user-attachments/assets/5499fa8d-a2af-42f5-acd2-4da118bf34a3" />
