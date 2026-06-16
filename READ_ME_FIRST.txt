@@ -1,12 +1,3 @@
-
-
-
-
-
-
-
-
-
 ╔══════════════════════════════════════════════════════════════╗
 ║        EduSphere — Complete Student Management System        ║
 ║          FULL SETUP GUIDE — READ BEFORE RUNNING             ║
