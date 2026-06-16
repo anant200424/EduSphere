@@ -52,7 +52,7 @@ select.fi{appearance:none;cursor:pointer;}
       <div class="fg"><label class="fl">Last Name</label><div class="iw"><i class="fas fa-user ii"></i><input type="text" name="lastName" class="fi" placeholder="Kumar" required></div></div>
     </div>
     <div class="fg"><label class="fl">Email Address</label><div class="iw"><i class="fas fa-envelope ii"></i><input type="email" name="email" class="fi" placeholder="anant@college.edu" required></div></div>
-    <div class="fg"><label class="fl">Phone Number</label><div class="iw"><i class="fas fa-phone ii"></i><input type="tel" name="phone" class="fi" placeholder="+91 98765 43210"></div></div>
+    <div class="fg"><label class="fl">Phone Number</label><div class="iw"><i class="fas fa-phone ii"></i><input type="tel" name="phone" class="fi" placeholder="+91 345677654376"></div></div>
     <div class="fg"><label class="fl">Address</label><div class="iw"><i class="fas fa-map-marker-alt ii"></i><input type="text" name="address" class="fi" placeholder="Kolkata, West Bengal"></div></div>
 
     <div class="step">Family Info</div>
